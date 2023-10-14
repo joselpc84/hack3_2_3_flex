@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 80px;
+    background-color: #93b5c9;
+}
+
+nav{
+    height: 180px;
+    background-color: #ab2849;
+    margin-bottom: 3vh;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    height: 500px;
+    margin-bottom: 2vh;
+}
+
+section{
+    height: 110px;
+    width: 80%;
+    background-color: #ab2849;
+    margin-bottom: 2vh;
+}
+
+footer{
+    margin-top: 2vh;
+    margin-left: 2%;
+    margin-right: 2%;
+    bottom: 1vh;
+    width: 96%;
+    height: 120px;    
+    background-color: #ab2849;
+}
